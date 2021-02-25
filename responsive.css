@@ -1,0 +1,25 @@
+#nav-bar-items{
+    overflow: hidden;
+    background-color:wheat;
+    width: 85vw;
+}
+li{
+    list-style-type: none;
+    margin: 0 2vw;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+}
+a:hover{
+    background-color:wheat;
+}
+
+#grids{
+    display: grid;padding: 100px;background-color: grey;
+}
+.div2{
+    background-color:white;border: 4px solid black;text-align: center;
+}
